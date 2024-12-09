@@ -19,6 +19,16 @@ Whether you're buying or selling, get an accurate estimate instantly.
 
 st.divider()
 
+# Sidebar for Tips
+with st.sidebar:
+    st.header("🔍 How It Works")
+    st.markdown("""
+    1. Fill in the property details in the form below.
+    2. Click **Predict Price** to see the estimated price range.
+    3. Adjust your inputs to explore different scenarios!
+    """)
+    st.info("💡 *Tip*: Accurate inputs give better predictions.")
+
 # Inputs
 st.header('Enter Property Details')
 
