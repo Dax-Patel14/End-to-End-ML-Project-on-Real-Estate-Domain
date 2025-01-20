@@ -48,6 +48,6 @@ Based on factors like Price, Ammenities availabe for properties and nearby Landm
 
 ---
 
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/f6613db0-e949-4c74-b0f0-2d8cc7199a99" />
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/562607da-fc7b-4f8a-a2ea-1a66cae08865" />
 
 
